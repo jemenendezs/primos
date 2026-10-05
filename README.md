@@ -107,6 +107,6 @@ primos/
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## Autor
+## Notas
 
 Proyecto desarrollado con Python para practicar algoritmos matemáticos y programación eficiente.
